@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+CodeZine
+Android Studio 2で始めるアプリ開発入門
+
+サービスサンプル
+
+@author Shinzo SAITO
+
+res/values/string.xmlファイル
+-->
+<resources>
+
+	<string name="app_name">サービスサンプル</string>
+	<string name="bt_play_play">再生</string>
+	<string name="bt_play_stop">停止</string>
+
+</resources>
